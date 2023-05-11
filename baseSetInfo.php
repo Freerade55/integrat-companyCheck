@@ -7,7 +7,7 @@ require ROOT . "/functions/require.php";
 
 
 
-$mysqli = mysqli_connect("localhost", "u0574215_default", "1vLfr324", "u0574215_trandagent");
+$mysqli = mysqli_connect("localhost", "", "", "");
 mysqli_set_charset($mysqli, "utf8");
 
 
