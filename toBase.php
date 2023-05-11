@@ -13,7 +13,7 @@ $data = json_decode($json, true);
 
 
 
-$mysqli = mysqli_connect("localhost", "u0574215_default", "1vLfr324", "u0574215_trandagent");
+$mysqli = mysqli_connect("localhost", "", "", "");
 
 
 
